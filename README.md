@@ -5,10 +5,17 @@
 🚀 On a quest for endless knowledge: mastering the web and tinkering with robots. 
 Let's build the future, one line of code at a time! 🛠️🔮🦾
 
+<!-- GIF IMAGE -->
+<img align="right" alt="coding" width="350px" src="coding_2.gif">
+
+
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vasupatel303@gmail.com](mailto:vasupatel303@gmail.com)
 * 🧠  I'm learning Artificial Intelligence and Machine Learning
+* 🤖  Intrigued in Internet of Things and Robotics - Where Machines Learn, Connect, and Move
 * 🤝  I'm open to collaborating on Web Projects, AI Projects, ML Projects
+
+<br/>
 
 ### Skills
 
